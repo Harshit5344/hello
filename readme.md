@@ -1,2 +1,2 @@
  # a tutorial for repository
- create a repository
+ create a repository//
